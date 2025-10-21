@@ -3,3 +3,62 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.home-link, 
+.tips, 
+.container {
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.container {
+    background-color: #ffe4c4;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px auto;
+    padding: 50px;
+    text-align: center;
+    width: 1000px;
+}
+
+.home-link {
+    background-color: #93c8c8;
+    box-shadow: 5px 5px 5px black;
+    display: block;
+    height: 50px;
+    margin: 10px auto;
+    padding: 10px;
+    width: 100px;
+}
+
+.image {
+    margin: 20px;
+}
+
+.section {
+    margin: 20px;
+}
+
+.ingredients-list,
+.recipe-steps {
+    text-align: left;
+}
+
+.step-description,
+.tips {
+    margin-top: 10px;
+}
+
+.tips {
+    background-color: #93c8c8;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.tips ul {
+    list-style: inside;
+}
+
+.estimate {
+    font-style: italic;
+}
