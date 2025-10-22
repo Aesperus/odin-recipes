@@ -10,6 +10,7 @@ The recipe pages all have an image of the prepared dish, a description of the re
 
 ## Technologies Used
 - HTML
+- CSS
 
 ## Image and Recipe Sources
 - TheRandomRecipe.com
